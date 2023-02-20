@@ -10,4 +10,4 @@
 "System\monster_size_effect_sak.lub"	095179d31a21eb8e8c064575fd494c31
 "System\monster_size_effect_sak_new.lub"	040028d5eba5d3cf2b9e1138f05f2455
 "System\PetEvolutionCln_sak.lub"	557af6b0314c2e2ad600d784651abec9
-"data\clientinfo.xml"	eaf9f76dc2049f6af00b4c9ef1978766
+
