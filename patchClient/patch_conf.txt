@@ -16,7 +16,7 @@ server_ini		/patchClient/patch_conf.txt
 # patch_txt MD5ハッシュリストのパス
 # patchdir  パッチファイルの置いてあるディレクトリ
 
-info_url		/patchClient/index.html
+info_url		index.html
 patch_txt		/patchClient20170614/patch.txt
 patchdir		/patchClient20170614/patch/
 
