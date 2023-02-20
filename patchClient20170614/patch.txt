@@ -1,5 +1,3 @@
-"bak\patch.conf"	26fce1db95af54eaea0dec1203708578
-"bak\RagPatcher.exe"	b27429eac3b69719cba2bd254dbe181d
 "PatchClientBox\exit.png"	ada40e5bc4d3d15e9cee7343e8b193c6
 "PatchClientBox\skin.gif"	2905cba353e6fa5b277d50db889fc5b3
 "PatchClientBox\start.png"	f46b1627bfe21b9667b649557999c0b9
