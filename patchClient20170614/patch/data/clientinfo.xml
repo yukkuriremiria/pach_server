@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+<servicetype>japan</servicetype>
+<servertype>primary</servertype>
+<readfolder></readfolder>
+
+<connection>
+<display>MainServer</display>
+<balloon>No.1testServer</balloon>
+<address>ro.kanzume.ml</address>
+<port>6900</port>
+<version>10</version>
+<langtype>2</langtype>
+</connection>
+
+<connection>
+<display>Local Server</display>
+<balloon>Local Host</balloon>
+<address>192.168.0.100</address>
+<port>6900</port>
+<version>10</version>
+<langtype>2</langtype>
+<aid>
+<admin>20091122Ro</admin>
+</aid>
+</connection>
+
+</clientinfo>
